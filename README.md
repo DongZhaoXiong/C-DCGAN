@@ -2,7 +2,7 @@
 
 The multi-condition deep convolution generation countermeasure network is applied to the implementation of Tensorflow in clothing design, which is a stable generation countermeasure network.
 
-![sample](https://github.com//sample//C-DCGAN.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/C-DCGAN.png)
 
 ## Prerequisites
 
