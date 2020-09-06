@@ -36,13 +36,13 @@ python train.py --dataset your_test_dataset --input_height=image_h --output_heig
 
 Fashion-mnist
 
-![](D:\C-DCGAN-Clothing-Design\sample\result-f-mnist-T.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-f-mnist-T.png)
 
-![](D:\C-DCGAN-Clothing-Design\sample\result-f-mnist-P.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-f-mnist-p.png)
 
 Clothing-co-Parsing:
 
-![](D:\C-DCGAN-Clothing-Design\sample\resutl-ccp-young.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-ccp-young.png)
 
-![](D:\C-DCGAN-Clothing-Design\sample\result-ccp-sports.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-ccp-sports.png)
 
