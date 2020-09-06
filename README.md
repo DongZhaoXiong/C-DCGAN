@@ -38,7 +38,7 @@ Fashion-mnist
 
 ![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-f-mnist-T.png)
 
-![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-f-mnist-p.png)
+![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-f-mnist-P.png)
 
 Clothing-co-Parsing:
 
