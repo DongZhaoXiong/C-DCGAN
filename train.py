@@ -9,11 +9,11 @@ from utils import pp, visualize, to_json, show_all_variables, expand_path, times
 import tensorflow as tf
 
 flags = tf.app.flags
-flags.DEFINE_integer("epoch", 500, "Epoch to train [25]")  # 训练全部样本25次
+flags.DEFINE_integer("epoch", 500, "Epoch to train [25]")  
 flags.DEFINE_float("learning_rate", 0.0002, "Learning rate of for adam [0.0002]")  # learning-rate学习率
-flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")  # 参数不懂
+flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")  
 flags.DEFINE_float("train_size", np.inf, "The size of train images [np.inf]")
-flags.DEFINE_integer("batch_size", 64, "The size of batch images [64]")  # 8*8图像质量最佳
+flags.DEFINE_integer("batch_size", 64, "The size of batch images [64]")  
 flags.DEFINE_integer("input_height", 28, "The size of image to use (will be center cropped). [108]")
 flags.DEFINE_integer("input_width", 28,
                      "The size of image to use (will be center cropped). If None, same value as input_height [None]")
