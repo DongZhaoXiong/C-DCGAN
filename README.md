@@ -48,4 +48,5 @@ Clothing-co-Parsing:
 
 ### Acknowledgement
 Thank you very much to Radford et al([DCGAN](https://arxiv.org/abs/1511.06434))
+
 Thank you very much for the code reference(https://github.com/carpedm20/DCGAN-tensorflow)
