@@ -47,4 +47,5 @@ Clothing-co-Parsing:
 ![sample](https://github.com/beng7777/C-DCGAN-Clothing-Design/blob/master/sample/result-ccp-sports.png)
 
 ### Acknowledgement
+Thank you very much to Radford et al([DCGAN](Radford A, Metz L, Chintala S. Unsupervised representation learning with deep convolutional generative adversarial networks[J]. arXiv preprint arXiv:1511.06434, 2015.))
 
