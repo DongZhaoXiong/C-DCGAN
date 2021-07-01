@@ -50,3 +50,6 @@ Clothing-co-Parsing:
 Thank you very much to Radford et al([DCGAN](https://arxiv.org/abs/1511.06434))
 
 Thank you very much for the code reference(https://github.com/carpedm20/DCGAN-tensorflow)
+
+### Author
+Li minqi, Dong Zhaoxiong, Liu zhe, Li ben, Liu shan, Deng Wei, Gong Mengchan
